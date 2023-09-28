@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.canva.com/design/DAFuQhgi56M/a2N0tPQqfbSqcf4ds40epw/view?utm_content=DAFuQhgi56M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFvvUEjwYE/Ph3bNdNit-qYJU2t35mbFw/view?utm_content=DAFvvUEjwYE&utm_campaign=designshare&utm_medium=link&utm_source=editor))]
+[![MasterHead]([https://www.canva.com/design/DAFuQhgi56M/a2N0tPQqfbSqcf4ds40epw/view?utm_content=DAFuQhgi56M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink])
 <h1 align="center">Hi 👋, I'm Ajit verma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
