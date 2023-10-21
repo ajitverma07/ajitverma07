@@ -1,4 +1,4 @@
-[![MasterHead]([[https://www.canva.com/design/DAFvvUEjwYE/Ph3bNdNit-qYJU2t35mbFw/view?utm_content=DAFvvUEjwYE&utm_campaign=designshare&utm_medium=link&utm_source=viewer](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaiwqCJELblGiKjQ1CiqRoLCUdpDGe1sBzQL0ntczj4cu8hxtT_4AKxWBySlkm1I0TkA&usqp=CAU)])
+<img height="300" width="100%" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/full-stack-developer.jpg?itok=MB2j2_Yt">
 <h1 align="center">Hi 👋, I'm Ajit verma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
